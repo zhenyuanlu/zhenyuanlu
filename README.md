@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Teaching courses:**
 <img src="https://img.shields.io/badge/R-language-orange"/>
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=appveyor&logo=r&logoColor=white"/>
+# rmarkdown <img src='man/figures/logo.png' align="right" height="138.5" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Computation and Visualization for Analytics](https://zhenyuanlu.com/ie6600-sea-sp22)
