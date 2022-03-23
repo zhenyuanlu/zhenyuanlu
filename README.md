@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## Teaching courses:
 
-<img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="58.5"/>
+
+<!-- <img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="58.5"/>
 <img src='https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png' align="right" height="58.5"/>
-<img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="58.5"/>
+<img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="58.5"/> -->
 
 
 - **Computation and Visualization for Analytics** ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=informational) ![RMarkdown](https://img.shields.io/badge/R%20Markdown-language-informational) ![tidyverse](https://img.shields.io/badge/tidyverse-package-yellowgreen) ![Shiny](https://img.shields.io/badge/R%20Shiny-package-yellowgreen)
