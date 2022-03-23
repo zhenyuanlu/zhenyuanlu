@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="58.5"/> -->
 
 
-- **Computation and Visualization for Analytics** ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=informational?style=flat&logo=r) ![RMarkdown](https://img.shields.io/badge/R%20Markdown-language-informational?style=flat) ![tidyverse](https://img.shields.io/badge/tidyverse-library-yellowgreen?style=flat) ![Shiny](https://img.shields.io/badge/R%20Shiny-library-yellowgreen?style=flat)
+- **Computation and Visualization for Analytics** ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=informational?style=flat&logo=R) ![RMarkdown](https://img.shields.io/badge/R%20Markdown-language-informational?style=flat) ![tidyverse](https://img.shields.io/badge/tidyverse-library-yellowgreen?style=flat) ![Shiny](https://img.shields.io/badge/R%20Shiny-library-yellowgreen?style=flat)
   - [Spring 22](https://zhenyuanlu.com/ie6600-sea-sp22), [Fall 21](https://zhenyuanlu.com/ie6600-bos-fa21), [Summer 21](https://zhenyuanlu.com/ie6600-bos-sm21), [Spring 21](https://zhenyuanlu.com/ie6600-sea-sp21), [Fall 20](https://zhenyuanlu.com/ie6600-bos-fa20) 
 - **Data Mining in Engineering** ![R](https://img.shields.io/badge/R-language-informational?style=flat) ![caret](https://img.shields.io/badge/caret-library-yellowgreen?style=flat) ![tensorflow](https://img.shields.io/badge/TensorFlow-library-yellowgreen?style=flat&logo=TensorFlow)
   - [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) 
