@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 [![Zhenyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenyuanlu&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=javascript,rubby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Rubby)](https://github.com/anuraghazra/github-readme-stats)
 
 
