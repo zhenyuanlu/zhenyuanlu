@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - **Computation and Visualization for Analytics** ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=informational) ![RMarkdown](https://img.shields.io/badge/R%20Markdown-language-informational) ![tidyverse](https://img.shields.io/badge/tidyverse-package-yellowgreen) ![Shiny](https://img.shields.io/badge/R%20Shiny-package-yellowgreen)
   - [Spring 22](https://zhenyuanlu.com/ie6600-sea-sp22), [Fall 21](https://zhenyuanlu.com/ie6600-bos-fa21), [Summer 21](https://zhenyuanlu.com/ie6600-bos-sm21), [Spring 21](https://zhenyuanlu.com/ie6600-sea-sp21), [Fall 20](https://zhenyuanlu.com/ie6600-bos-fa20) 
-- **Data Mining in Engineering** 
+- **Data Mining in Engineering** ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=informational) ![caret](https://img.shields.io/badge/caret-package-blue?style=flat&logo=appveyor&logo=python&logoColor=yellowgreen)
   - [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) 
 
 
