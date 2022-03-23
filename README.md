@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** Current teaching courses: **
+**Teaching courses:**
+
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=appveyor&logo=r&logoColor=white" />
 <!-- BLOG-POST-LIST:START -->
-- [Computation and Visualization for Analytics](https://javascript.plainenglish.io/install-tailwind-css-in-an-angular-project-54a189b53db2?source=rss-185d0c8489fa------2)
-
-
-** Past teaching courses: **
+- [Computation and Visualization for Analytics](https://zhenyuanlu.com/ie6600-sea-sp22/)
+- [Data Mining in Engineering] [Summer 2020](https://zhenyuanlu.com/ie7275-bos-sm20/)
 
 [<b><a href="{{ '/ie6600-sea-sp22/' | relative_url }}" target="_blank">Spring 22</a></b>],[<b><a href="{{ '/ie6600-bos-fa21/' | relative_url }}" target="_blank">Fall 21</a></b>], [<b><a href="{{ '/ie6600-bos-sm21/' | relative_url }}" target="_blank">Summer 21</a></b>], [<b><a href="{{ '/ie6600-sea-sp21/' | relative_url }}" target="_blank">Spring 21</a></b>], [<b><a href="{{ '/ie6600-bos-fa20/' | relative_url }}" target="_blank">Fall 20</a></b>]
 
