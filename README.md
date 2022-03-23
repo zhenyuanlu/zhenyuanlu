@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="58.5"/>
 
 
-- **Computation and Visualization for Analytics** [Spring 22](https://zhenyuanlu.com/ie6600-sea-sp22), [Fall 21](https://zhenyuanlu.com/ie6600-bos-fa21), [Summer 21](https://zhenyuanlu.com/ie6600-bos-sm21), [Spring 21](https://zhenyuanlu.com/ie6600-sea-sp21), [Fall 20](https://zhenyuanlu.com/ie6600-bos-fa20)
-- **Data Mining in Engineering** [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) [tensorflow](https://badges.aleen42.com/src/tensorflow.svg)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Computation and Visualization for Analytics** [Spring 22](https://zhenyuanlu.com/ie6600-sea-sp22), [Fall 21](https://zhenyuanlu.com/ie6600-bos-fa21), [Summer 21](https://zhenyuanlu.com/ie6600-bos-sm21), [Spring 21](https://zhenyuanlu.com/ie6600-sea-sp21), [Fall 20](https://zhenyuanlu.com/ie6600-bos-fa20) ![R](https://img.shields.io/badge/R-language-blue?style=flat&logo=appveyor&logo=python&logoColor=ffdd54)
+- **Data Mining in Engineering** [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) 
 
 
 [![Zhenyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenyuanlu&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
