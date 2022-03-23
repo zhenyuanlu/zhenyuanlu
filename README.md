@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **Teaching courses:**
+<img src="https://img.shields.io/badge/R-language-orange"/>
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=appveyor&logo=r&logoColor=white"/>
 
 <!-- BLOG-POST-LIST:START -->
