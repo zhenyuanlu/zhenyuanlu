@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Teaching courses:
+<img src='!https://user-images.githubusercontent.com/36217495/159773699-42e487ab-11de-4079-a50f-def51d4a6b29.png' align="right" height="138.5"/>
 <img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="138.5"/>
 <img src='https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png' align="right" height="138.5"/>
 <img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="138.5"/>
