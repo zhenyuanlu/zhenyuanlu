@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Teaching courses:**
-<img src="https://img.shields.io/badge/R-language-orange"/>
-# rmarkdown <img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="138.5" />
+# Teaching courses:<img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="138.5" />
+<img src='https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png', height="138.5"/>
+
+<img src="https://img.shields.io/badge/R-language-orange"/> 
 
 <!-- BLOG-POST-LIST:START -->
 - [Computation and Visualization for Analytics](https://zhenyuanlu.com/ie6600-sea-sp22)
