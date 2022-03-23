@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Teaching courses:
 
-<img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="138.5"/>
-<img src='https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png' align="right" height="138.5"/>
-<img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="138.5"/>
+<img src='https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png' align="right" height="58.5"/>
+<img src='https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png' align="right" height="58.5"/>
+<img src='https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png' align="right" height="58.5"/>
 
 
 - **Computation and Visualization for Analytics** [Spring 22](https://zhenyuanlu.com/ie6600-sea-sp22), [Fall 21](https://zhenyuanlu.com/ie6600-bos-fa21), [Summer 21](https://zhenyuanlu.com/ie6600-bos-sm21), [Spring 21](https://zhenyuanlu.com/ie6600-sea-sp21), [Fall 20](https://zhenyuanlu.com/ie6600-bos-fa20)
