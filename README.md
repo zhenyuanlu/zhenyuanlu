@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) 
 
 
-<!-- [![Zhenyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenyuanlu&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhenyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenyuanlu&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Ruby,TeX)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Ruby,TeX)](https://github.com/anuraghazra/github-readme-stats)
 
