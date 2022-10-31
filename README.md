@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - **Data Mining in Engineering** ![R](https://img.shields.io/badge/R-language-informational?style=flat) ![caret](https://img.shields.io/badge/caret-library-yellowgreen?style=flat) ![tensorflow](https://img.shields.io/badge/TensorFlow-library-yellowgreen?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-library-yellowgreen?style=flat&logo=Keras&logoColor=white) 
   - [Summer 20](https://zhenyuanlu.com/ie7275-bos-sm20) 
 
-
+<!-- 
 [![Zhenyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenyuanlu&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Ruby,TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Ruby,TeX)](https://github.com/anuraghazra/github-readme-stats) -->
 
