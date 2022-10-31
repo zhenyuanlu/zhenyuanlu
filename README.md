@@ -33,8 +33,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyuanlu&layout=compact&&hide=Javascript,Ruby,TeX)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zhenyuanlu/count.svg" />
-</p>
-
